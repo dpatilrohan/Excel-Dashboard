@@ -2,6 +2,7 @@
 This is my first Git Repository. Coffee Shopee Sales Dashboard ( Excel )
 
 Finding for this project -
+
 1.Total Sales 
 
 2.Total Footfall 
